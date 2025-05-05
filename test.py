@@ -7,7 +7,7 @@ def get_video_fps(video_path):
     return fps
 
 def main():
-    input_video_path = 'input.mp4'
+    input_video_path = 'test.mp4'
     output_video_path = 'output.mp4'
 
     # Capture video
